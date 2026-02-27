@@ -1,0 +1,7 @@
+{
+  "name": "AuditPro",
+  "description": "A highly accurate document audit tool that cross-references structured Excel/CSV data against source PDF/Image documents using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
